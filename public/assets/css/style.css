@@ -1,0 +1,67 @@
+body {
+  padding-top: 50px;
+  padding-left: 15%;
+  padding-right: 15%;
+  font-size: 20px;
+}
+
+h1 {
+  margin-left: 45%;
+}
+
+/*#grabAll {*/
+
+/*  margin: auto;*/
+
+/*}*/
+
+#devourId {
+  float: left;
+  /*width: 25%;*/
+  height: 80%;
+  padding-right: 8%;
+  /*margin: auto;*/
+  /*background-color: grey;*/
+  border-right: 2px solid lightgrey;
+}
+
+#addBurger {
+  float: left;
+  /*width: 20%;*/
+  height: 80%;
+  padding-right: 8%;
+  padding-left: 8%;
+  text-align: center;
+  /*margin: auto;*/
+  /*background-color: lightgrey;*/
+  border-right: 2px solid lightgrey;
+}
+
+#eatenId {
+  float: left;
+  /*width: 25%;*/
+  height: 80%;
+  padding-left: 8%;
+  /*margin: auto;*/
+  /*background-color: grey;*/
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  /*background: #faebd7;*/
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  /*background: aqua;*/
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
